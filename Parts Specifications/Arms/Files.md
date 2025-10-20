@@ -1,9 +1,9 @@
-#ALERT: infomration about the right hand is only made available since it has a viable amount of progress that can allow for its documentation
+# ALERT: infomration about the right hand is only made available since it has a viable amount of progress that can allow for its documentation
 
-##Description
+## Description
 All of the parts are derived from the i2 editions located in the InMoov's body part library. 
 
-##Part Links for Right Hand
+## Part Links for Right Hand
 - **Adapter** | [link](https://inmoov.fr/wp-content/uploads/stl/i2RightHand/i2_Adapter1109MG.stl)
 - **Cover Fingers** | [link](https://inmoov.fr/wp-content/uploads/stl/i2RightHand/i2_CoverFingerV3.stl)
 - **Finger Molds** | [link](https://inmoov.fr/wp-content/uploads/stl/i2RightHand/i2_FingersMoldX5V3.stl)
